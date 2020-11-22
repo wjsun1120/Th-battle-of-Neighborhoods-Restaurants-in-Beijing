@@ -10,11 +10,11 @@ I have arranged several trips to Bejing for my friends from other countries, and
 
 3. Data Requirements
 
-  1. All administrative dividions of Beijing City which are retrieved from Wikipedia:  https://en.wikipedia.org/wiki/List_of_administrative_divisions_of_Beijing
+  1. All administrative dividions of Beijing City which were retrieved from Wikipedia:  https://en.wikipedia.org/wiki/List_of_administrative_divisions_of_Beijing
 
      I scrapped the table 'Administrative Divisions' on Wikipedia and found their coordinates through geocoder class of Geopy client.
 
-  2. Restaurants in each division of Bejing which are retrieved from Foursquare APIs.
+  2. Restaurants in each division of Beijing which were retrieved from Foursquare APIs.
 
      I got all the venues in each division with Foursquare APIs and filtered out restaurants only. 
 
