@@ -1,4 +1,4 @@
-# Th-battle-of-Neighborhoods-Restaurants-in-Beijing
+# The-battle-of-Neighborhoods-Restaurants-in-Beijing
 
 1. Introduction
 
