@@ -6,7 +6,7 @@ The project provides reliable cuisine information to visitors to Beijing from ot
 
 2. Background
 
-I have arranged several trips to Bejing for my friends from other countries, and some common problems they faced before planning were to decide what to have and where to find authentic chinese restaurants. Besides, the XXIV Winter Olympic Games in Bejing would attract tens of thousands of tourists around the world, and some of them would face the same problems as my friends did. I think it would be helpful to create such information source they could go for selecting restaurants, which would save them plenty of time collecting information on their own.
+I have arranged several trips to Bejing for my friends from other countries, and some common problems they faced before planning were to decide what to have and where to find authentic chinese restaurants. Besides, the XXIV Winter Olympic Games in Bejing would attract tens of thousands of tourists around the world, and some of them would face the same problems as my friends did. I think it would be helpful to create such information source where they could go for selecting restaurants, which would save them plenty of time collecting information on their own.
 
 3. Data Requirements
 
